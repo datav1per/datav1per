@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @datav1per
+- 👋 Hi, I’m reeya
 - 👀 I’m interested in data science.
 - 🌱 I’m currently learning AI 
 - 💞️ I’m looking to collaborate on 
